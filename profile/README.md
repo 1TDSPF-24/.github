@@ -1,6 +1,6 @@
-# Front End Design Engineering - FIAP 1TDSF
+# Front End Design Engineering - FIAP 1TDSpF
 
-Este repositório é dedicado aos alunos do curso de Análise e Desenvolvimento de Sistemas da FIAP, Turma 1TDSF, com foco em design de interfaces e engenharia front-end.
+Este repositório é dedicado aos alunos do curso de Análise e Desenvolvimento de Sistemas da FIAP, Turma 1TDSpF, com foco em design de interfaces e engenharia front-end.
 
 ## Sobre
 
@@ -8,7 +8,7 @@ Este é um espaço exclusivo para os alunos compartilharem recursos, projetos e 
 
 ## Como Contribuir
 
-Apenas alunos matriculados na Turma 1TDSF da FIAP podem contribuir para este repositório.
+Apenas alunos matriculados na Turma 1TDSpF da FIAP podem contribuir para este repositório.
 
 ## Contato
 
